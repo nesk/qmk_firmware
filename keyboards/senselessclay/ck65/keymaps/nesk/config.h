@@ -1,0 +1,7 @@
+#pragma once
+
+#undef RGBLIGHT_LIMIT_VAL
+#define RGBLIGHT_LIMIT_VAL 10
+
+// #undef RGBLIGHT_DEFAULT_VAL
+// #define RGBLIGHT_DEFAULT_VAL 10
