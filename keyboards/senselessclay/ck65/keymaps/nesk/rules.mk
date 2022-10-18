@@ -1,7 +1,7 @@
 SRC += ./helpers/helpers.c
 
-CONSOLE_ENABLE = yes
+CONSOLE_ENABLE = no
 NKRO_ENABLE = yes
 RGBLIGHT_ENABLE = yes
-CAPS_WORD_ENABLE = no
+CAPS_WORD_ENABLE = yes
 TAP_DANCE_ENABLE = yes
